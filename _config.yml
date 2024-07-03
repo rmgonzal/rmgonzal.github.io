@@ -14,9 +14,9 @@ paginate_path: /blog/page:num/
 
 # Social media links in footer
 twitter: "#"
-linkedin: "#"
+linkedin: "https://www.linkedin.com/in/raul-gonzalez-brouwer-983ba889/"
 stackoverflow: "#"
-github: "#"
+github: "https://github.com/rmgonzal"
 researchgate: "#"
 orcid: "#"
 quora: "#"
