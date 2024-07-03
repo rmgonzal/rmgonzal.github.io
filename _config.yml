@@ -13,15 +13,15 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-twitter: "#"
-linkedin: "https://www.linkedin.com/in/raul-gonzalez-brouwer-983ba889/"
-stackoverflow: "#"
-github: "https://github.com/rmgonzal"
-researchgate: "#"
-orcid: "#"
-quora: "#"
-instagram: "#"
-facebook: "#"
+#twitter: "#"
+linkedin: "raul-gonzalez-brouwer-983ba889/"
+#stackoverflow: "#"
+github: "rmgonzal"
+#researchgate: "#"
+#orcid: "#"
+#quora: "#"
+#instagram: "#"
+#facebook: "#"
 
 
 # Markdown
