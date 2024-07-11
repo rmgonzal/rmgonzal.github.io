@@ -1,10 +1,11 @@
 ---
 layout: post
 title: Towards nano-MRI using single spins in diamond 
-description: To enhance MRI resolution to the nanometre scale, new approaches have been proposed, including scanning probe methods
+description: 
 ---
 
-Example modified from [here](http://www.unexpected-vortices.com/sw/rippledoc/quick-markdown-example.html){:target="_blank"}.
+To enhance MRI resolution to the nanometre scale, new approaches have been proposed, including
+scanning probe methods
 
 H1 Header
 ============
