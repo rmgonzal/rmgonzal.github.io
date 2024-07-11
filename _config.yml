@@ -7,8 +7,14 @@ baseurl: #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
 email: #
 
+<a href="{{site.baseurl}}/">About me</a>
+        <a href="{{site.baseurl}}/projects/">Publications</a>
+        <a href="{{site.baseurl}}/blog/">Research</a>
+        <a href="{{site.baseurl}}/archive/">CV</a>
+        <a href="{{site.baseurl}}/archive/">Blog</a>  
+        
 # Pagination
-paginate: 4
+paginate: 5
 permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
@@ -17,7 +23,7 @@ paginate_path: /blog/page:num/
 linkedin: "raul-gonzalez-brouwer-983ba889/"
 #stackoverflow: "#"
 github: "rmgonzal"
-#researchgate: "#"
+#researchgate: "Raul-Gonzalez-Brouwer-2"
 #orcid: "#"
 #quora: "#"
 #instagram: "#"
