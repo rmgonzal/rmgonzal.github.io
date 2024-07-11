@@ -80,6 +80,15 @@ target="_blank">
 </a>
 {%- endif -%}
 
+{%- if site.google-scholar -%}
+<a title="{{ _locale_string_follow | replace: '[NAME]', 'GoogleScholar' }}"
+class="social-button google-scholar" itemprop="sameAs"
+href="https://scholar.google.com/citations?{{ site.google-scholar }}"
+target="_blank">
+<i class="fab fa-google-scholar"></i>
+</a>
+{%- endif -%}
+
 {%- if site.stackoverflow -%}
 <a title="{{ _locale_string_follow | replace: '[NAME]', 'Stackoverflow' }}"
 class="social-button stackoverflow" itemprop="sameAs"
