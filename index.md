@@ -11,7 +11,3 @@ Welcome! I'm a PhD student currently working at the [Institute for Quantum Optic
 I was born in The Hague, Netherlands, but grew up in Santiago de Chile. In my free time, I enjoy traveling, playing music, and biking.
 
 My current areas of interest include using NV centers in diamonds for applications in quantum information and high-precision measurements, with potential applications in biology and material science.
-
-### Also, check out:
-- [autoCV](https://github.com/jitinnair1/autocv) - a LaTeX template that builds and deploys the CV using GitHub Actions, so you will always have a ready link for your latest CV
-- [Tail](https://github.com/jitinnair1/tail) - a minimal, quick-setup template for a blog
