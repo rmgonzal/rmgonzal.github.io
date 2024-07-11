@@ -8,7 +8,7 @@ url: "" #custom url to be used instead of GitHub repository
 email: #
         
 # Pagination
-paginate: 5
+paginate: 4
 permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
