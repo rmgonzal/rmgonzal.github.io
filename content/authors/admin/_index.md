@@ -41,7 +41,7 @@ interests:
   - Experimental Control and Automation
 
 education:
-  - area: PhD Physics
+  - area: Ph.D Physics
     institution: Ulm University
     date_start: 2022-11-01
     date_end: 2025-05-31
@@ -49,28 +49,19 @@ education:
     button:
       text: 'Read Thesis'
       url: 'http://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
-    
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - area: M.Sc. Physics
+    institution: Pontificia Universidad Católica of Chile 
+    date_start: 2015-03-01
+    date_end: 2018-07-01
+    summary: |
+    
+  - area: B.Sc. Physics
+    institution: Pontificia Universidad Católica of Chile 
+    date_start: 2009-07-30
+    date_end: 2014-12-01
+    summary: |
+      
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
@@ -102,16 +93,13 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
+        percent: 100
         icon: code-bracket
       - name: Data Science
         description: ''
         percent: 100
         icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: circle-stack
+
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -123,11 +111,11 @@ skills:
       - name: Cats
         description: ''
         percent: 100
-        icon: cat
-      - name: Photography
+
+      - name: Music
         description: ''
-        percent: 80
-        icon: camera
+        percent: 100
+
 
 languages:
   - name: English
