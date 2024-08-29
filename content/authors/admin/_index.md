@@ -172,4 +172,9 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Welcome! I'm a PhD student currently working at the Institute for Quantum Optics at Ulm University. I completed my undergraduate studies at Pontificia Universidad Católica de Chile under the supervision of Jeronimo Maze, during this period I developed a strong interest in quantum sensing using color centers in diamond, which led me to Ulm University to pursue my graduate studies under the supervision of Fedor Jelezko.
+
+I was born in The Hague, Netherlands, but grew up in Santiago de Chile. 
+In my free time, I enjoy traveling, playing music, and biking.
+
+My current areas of interest include using NV centers in diamonds for applications in quantum information and high-precision measurements, with potential applications in biology and material science.
