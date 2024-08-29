@@ -18,7 +18,7 @@ role: PhD in Experimental Physics
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: Institut für Quantenoptik - Universität Ulm
-    url: https://www.uni-ulm.de/nawi/institut-fuer-quantenoptik/ag-prof-jelezko/
+    url: http://www.uni-ulm.de/nawi/institut-fuer-quantenoptik/ag-prof-jelezko/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -27,13 +27,13 @@ profiles:
     url: 'mailto:your-email@example.com'
     label: E-mail Me
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: http://github.com/gcushen
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/raul-gonzalez-brouwer-983ba889/
+    url: http://www.linkedin.com/in/raul-gonzalez-brouwer-983ba889/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=rzFrvVEAAAAJ&hl=es&authuser=2
+    url: http://scholar.google.com/citations?user=rzFrvVEAAAAJ&hl=es&authuser=2
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: http://orcid.org/
 
 interests:
   - Quantum Sensing
@@ -48,7 +48,7 @@ education:
     summary: |
     button:
       text: 'Read Thesis'
-      url: 'https://example.com'
+      url: 'http://example.com'
   - area: MEng Artificial Intelligence
     institution: Massachusetts Institute of Technology
     date_start: 2016-01-01
@@ -148,7 +148,7 @@ awards:
 
 ## About Me
 
-Welcome! I'm a PhD student in **Experimental Quantum Physics** currently working at the [Institute for Quantum Optics](https://www.uni-ulm.de/nawi/institut-fuer-quantenoptik/) at Ulm University. I completed my undergraduate studies at [Pontificia Universidad Católica de Chile](https://www.uc.cl/en) under the supervision of [Jeronimo Maze](https://scholar.google.com/citations?user=ti5gVjIAAAAJ&hl=en), during this period I developed a strong interest in quantum sensing using color centers in diamond, which led me to Ulm University to pursue my graduate studies under the supervision of [Fedor Jelezko](https://scholar.google.com/citations?user=Kx8alO4AAAAJ&hl=en).
+Welcome! I'm a PhD student in **Experimental Quantum Physics** currently working at the [Institute for Quantum Optics](http://www.uni-ulm.de/nawi/institut-fuer-quantenoptik/) at Ulm University. I completed my undergraduate studies at [Pontificia Universidad Católica de Chile](http://www.uc.cl/en) under the supervision of [Jeronimo Maze](http://scholar.google.com/citations?user=ti5gVjIAAAAJ&hl=en), during this period I developed a strong interest in quantum sensing using color centers in diamond, which led me to Ulm University to pursue my graduate studies under the supervision of [Fedor Jelezko](http://scholar.google.com/citations?user=Kx8alO4AAAAJ&hl=en).
 
 I was born in The Hague, Netherlands, but grew up in Santiago de Chile. 
 In my free time, I enjoy traveling, playing music, and biking.
