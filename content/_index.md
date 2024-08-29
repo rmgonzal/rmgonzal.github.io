@@ -35,11 +35,9 @@ sections:
       title: 'My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        My current areas of interest include using NV centers in diamonds for applications in quantum information 
         
-        Please reach out to collaborate 😃
+        and high-precision measurements, with potential applications in biology, quantum information and material science.
     design:
       columns: '1'
   - block: collection

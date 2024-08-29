@@ -140,5 +140,3 @@ Welcome! I'm a PhD student in **Experimental Quantum Physics** currently working
 
 I was born in The Hague, Netherlands, but grew up in Santiago de Chile. 
 In my free time, I enjoy traveling, playing music, and biking.
-
-My current areas of interest include using NV centers in diamonds for applications in quantum information and high-precision measurements, with potential applications in biology and material science.
