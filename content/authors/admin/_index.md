@@ -136,7 +136,7 @@ awards:
 
 ## About Me
 
-Welcome! I'm a PhD student in **Experimental Quantum Physics** currently working at the [Institute for Quantum Optics](http://www.uni-ulm.de/nawi/institut-fuer-quantenoptik/) at Ulm University. I completed my undergraduate studies at [Pontificia Universidad Católica de Chile](http://www.uc.cl/en) under the supervision of [Jeronimo Maze](http://scholar.google.com/citations?user=ti5gVjIAAAAJ&hl=en), during this period I developed a strong interest in quantum sensing using color centers in diamond, which led me to Ulm University to pursue my graduate studies under the supervision of [Fedor Jelezko](http://scholar.google.com/citations?user=Kx8alO4AAAAJ&hl=en).
+Welcome! I'm a PhD student in **Experimental Quantum Physics** currently working at the [Institute for Quantum Optics](http://www.uni-ulm.de/nawi/institut-fuer-quantenoptik/) at Ulm University. I completed my undergraduate studies at [Pontificia Universidad Católica de Chile](http://www.uc.cl/en) under the supervision of [Dr. Jeronimo Maze](http://scholar.google.com/citations?user=ti5gVjIAAAAJ&hl=en), during this period I developed a strong interest in quantum sensing using color centers in diamond, which led me to Ulm University to pursue my graduate studies under the supervision of [Dr. Prof. Fedor Jelezko](http://scholar.google.com/citations?user=Kx8alO4AAAAJ&hl=en).
 
 I was born in The Hague, Netherlands, but grew up in Santiago de Chile. 
 In my free time, I enjoy traveling, playing music, and biking.
