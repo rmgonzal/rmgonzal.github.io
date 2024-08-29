@@ -35,9 +35,8 @@ sections:
       title: 'My Research'
       subtitle: ''
       text: |-
-        My current areas of interest include using NV centers in diamonds for applications in quantum information and high-precision measurements, 
+        My current areas of interest include using NV centers in diamonds for applications in quantum information and high-precision measurements, with potential applications in biology, quantum information and material science.
         
-        with potential applications in biology, quantum information and material science.
     design:
       columns: '1'
   - block: collection
