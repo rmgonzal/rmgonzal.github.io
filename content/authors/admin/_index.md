@@ -3,7 +3,7 @@
 title: Raúl González Brouwer
 
 # Full name (for SEO)
-first_name: Raúl Manuel
+first_name: Raúl
 last_name: González Brouwer
 
 # Is this the primary user of the site?
