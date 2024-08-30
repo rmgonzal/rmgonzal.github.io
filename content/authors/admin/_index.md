@@ -27,7 +27,7 @@ profiles:
     url: 'mailto:your-email@example.com'
     label: E-mail Me
   - icon: brands/github
-    url: http://github.com/gcushen
+    url: http://github.com/rmgonzal
   - icon: brands/linkedin
     url: http://www.linkedin.com/in/raul-gonzalez-brouwer-983ba889/
   - icon: academicons/google-scholar
@@ -111,7 +111,7 @@ skills:
       - name: Cats
         description: ''
         percent: 100
-
+        icon: person-simple-walk
       - name: Music
         description: ''
         percent: 100
