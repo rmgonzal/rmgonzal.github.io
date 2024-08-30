@@ -31,13 +31,11 @@ publication_types: ['paper-conference']
 publication: In *Hugo Blox Builder Conference*
 publication_short: In *ICW*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
+abstract: Quantum information protocols, such as quantum error correction and quantum phase estimation, have been widely used to enhance the performance of quantum sensors. While these protocols have relied on single-shot detection, in most practical applications only an averaged readout is available, as in the case of room-temperature sensing with the electron spin associated with a nitrogen-vacancy center in diamond. Here, we theoretically investigate the application of the quantum phase estimation algorithm for high dynamic-range magnetometry, when single-shot readout is not available. We show that, even in this case, Bayesian estimation provides a natural way to efficiently use the available information. We apply Bayesian analysis to achieve an optimized sensing protocol for estimating a time-independent magnetic field with a single electron spin associated to a nitrogen-vacancy center at room temperature and show that this protocol improves the sensitivity over previous protocols by more than a factor of 3. Moreover, we show that an extra enhancement can be achieved by considering the timing information in the detector clicks.
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
+summary: We analyzed how the quantum phase estimation algorithm can be used efficiently for high dynamic range sensing with a single qubit, in the case where single-shot readout is not available.
 tags:
-  - Large Language Models
+  - Quantum sensing
 
 # Display this page in the Featured widget?
 featured: true
