@@ -5,10 +5,10 @@ title: 'Bayesian estimation for quantum sensing in the absence of single-shot de
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - HT Dinani, 
-  - DW Berry, 
+  - HT Dinani
+  - DW Berry
   - admin
-  - JR Maze, 
+  - JR Maze 
   - C Bonato
 
 # Author notes (optional)
