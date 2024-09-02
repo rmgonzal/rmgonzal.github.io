@@ -10,7 +10,7 @@ authors:
 - admin
 - Ingo Lieberwirth
 - Robert Graf
-- Fedor Jelezko*
+- Fedor Jelezko
 - Martin B. Plenio
 - Yingke Wu
 - Tanja Weil
