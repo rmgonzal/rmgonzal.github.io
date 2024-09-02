@@ -28,8 +28,8 @@ publishDate: '2019-03-15T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Hugo Blox Builder Conference*
-publication_short: In *ICW*
+publication: Physical Review B
+publication_short: In *PR B*
 
 abstract: Quantum information protocols, such as quantum error correction and quantum phase estimation, have been widely used to enhance the performance of quantum sensors. While these protocols have relied on single-shot detection, in most practical applications only an averaged readout is available, as in the case of room-temperature sensing with the electron spin associated with a nitrogen-vacancy center in diamond. Here, we theoretically investigate the application of the quantum phase estimation algorithm for high dynamic-range magnetometry, when single-shot readout is not available. We show that, even in this case, Bayesian estimation provides a natural way to efficiently use the available information. We apply Bayesian analysis to achieve an optimized sensing protocol for estimating a time-independent magnetic field with a single electron spin associated to a nitrogen-vacancy center at room temperature and show that this protocol improves the sensitivity over previous protocols by more than a factor of 3. Moreover, we show that an extra enhancement can be achieved by considering the timing information in the detector clicks.
 # Summary. An optional shortened abstract.
