@@ -1,5 +1,5 @@
 ---
-title: "An example preprint / working paper"
+title: "Observation of period doubling and higher multiplicities in a driven single-spin system"
 authors:
 - admin
 date: "2017-01-01T00:00:00Z"
