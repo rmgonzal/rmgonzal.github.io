@@ -2,11 +2,11 @@
 title: "Observation of period doubling and higher multiplicities in a driven single-spin system"
 authors:
 - admin
-date: "2017-01-01"
+date: "2025-07-25T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01"
+publishDate: "2025-11-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
