@@ -33,7 +33,7 @@ profiles:
   - icon: academicons/google-scholar
     url: http://scholar.google.com/citations?user=rzFrvVEAAAAJ&hl=es&authuser=2
   - icon: academicons/orcid
-    url: http://orcid.org/
+    url: https://orcid.org/0000-0002-3507-120X
 
 interests:
   - Quantum Sensing
